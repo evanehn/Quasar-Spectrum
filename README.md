@@ -7,7 +7,7 @@ Quasars act as bright background light sources across cosmic distances. As their
 
 ## Features & Highlights
 * **FITS Data Parsing:** Extracts 1D flux densities and logarithmic wavelength vectors directly from binary FITS table extensions using `astropy.io.fits`.
-* **Wavelength Calibration:** Transforms logarithmic wavelength arrays into linear Angstroms ($\text{\AA}$) for spectral plotting.
+* **Wavelength Calibration:** Transforms logarithmic wavelength arrays into linear Angstroms for spectral plotting.
 * **Spectral Analysis:** Identifies the redshifted $\text{Ly}\alpha$ emission line ($z \approx 4.5$) and maps line-of-sight neutral hydrogen absorption clouds.
 
 ## Tech Stack & Libraries
